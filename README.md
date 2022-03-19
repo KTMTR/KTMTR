@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KTMTR
-- 👀 I’m interested in reading and writing
+- 👀 I’m interested in creative writing and coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
